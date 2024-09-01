@@ -1,6 +1,6 @@
 {
-  "name": "hometask_1",
-  "version": "0.0.0",
+  "name": "nodejs-hometask1",
+  "version": "1.0.0",
   "description": "hometask after the second lection",
   "main": "index.js",
   "scripts": {

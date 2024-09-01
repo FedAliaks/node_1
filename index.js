@@ -22,4 +22,4 @@ function transformPolishNotation(str) {
     return stack.pop();
 };
 
-module.export = transformPolishNotation
+module.exports = transformPolishNotation
