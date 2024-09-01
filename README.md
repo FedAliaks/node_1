@@ -1,1 +1,1 @@
-# node_1
+# Node-intensive course
